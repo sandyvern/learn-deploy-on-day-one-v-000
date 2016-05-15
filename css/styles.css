@@ -132,6 +132,8 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+
 #juan-rivera-cover {
     background-image: url("../assets/img/juan-rivera-cover.jpg")
 }
@@ -3487,6 +3489,14 @@ a:visited {
 }
 #han-lee-card {
   background-image: url("../assets/img/han.jpg");
+}
+
+#sandy-hogan-cover {
+  background-image: url("../assets/img/sandy-hogan-cover.jpg");
+}
+
+#sandy-hogan-card {
+  background-image: url("../assets/img/sandy-hogan.jpg");
 }
 
 .view-profile-div {
